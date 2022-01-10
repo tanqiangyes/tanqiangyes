@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanqiangyes
 - 👀 I’m interested in go
-- 🌱 I’m currently learning go,algorithm 
+- 🌱 I’m currently learning go,algorithm,rust
 -  📫 How to reach me ：826285820@qq.com
 
 <!---
