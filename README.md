@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zoro
+- 👋 Hi
 - 👀 I’m interested in go
 - 🌱 I’m currently learning go,algorithm,rust
 
